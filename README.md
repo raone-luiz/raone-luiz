@@ -28,7 +28,7 @@
   <a href="https://beacons.ai/Raone-Luiz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raone-Luiz&show_icons=true&theme=radical"/>
 <img height="180m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raone-Luiz&layout=compact"/>
-username=raone_luiz&layout=compact&langs_count=16&theme=radical"/>
+
 </div>
 
 ## Fascinante e as tecnologias que faz o mundo não ter fronteiras
