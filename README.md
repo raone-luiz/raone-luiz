@@ -1,4 +1,4 @@
-## Olá! eu me chamo raone_luiz🖐️
+## Olá! eu me chamo raone-luiz🖐️
 - 💪 Estudando em curso de graduação em engenharia de Software
 - 🌱 Cursando e praticando profissão Dessenvolvedor Full-stack java na EBAC Oline
 - 🍀 Curso Hashtag phyton imprecionador
